@@ -10,7 +10,6 @@ Science Jubilee documentation: [science-jubilee.readthedocs.io](https://science-
 | Repository | Description |
 |---|---|
 | [activephasemap](https://github.com/pozzo-research-group/activephasemap) | Active sampling based strategies for constructing 'phase' maps using spectroscopic measurements |
-| [AnalySAS](https://github.com/pozzo-research-group/AnalySAS) | Python package for processing, analysis and modeling of small-angle scattering data |
 | [autophasemap](https://github.com/pozzo-research-group/autophasemap) | Automatic Structure Phase Map (autophasemap) generation |
 | [bayesian-optimization-tools](https://github.com/pozzo-research-group/bayesian-optimization-tools) | Collection of tools to run an off-the-shelf Bayesian optimizations with the current experimental set up in the Pozzo group |
 | [designspacediscovery](https://github.com/pozzo-research-group/designspacediscovery) | Cheminformatics workflow to find new candidate compounds with desired properties |
@@ -29,11 +28,8 @@ Science Jubilee documentation: [science-jubilee.readthedocs.io](https://science-
 | [Automation-Hardware](https://github.com/pozzo-research-group/Automation-Hardware) | Pozzo Group OT2 Hardware |
 | [bo-serving](https://github.com/pozzo-research-group/bo-serving) | Serve Ax bayesian optimization as an endpoint. |
 | [digital_pipette_server](https://github.com/pozzo-research-group/digital_pipette_server) | Raspberry Pi server that drives the Digital Pipette syringe tool for Science Jubilee |
-| [OLD-OT2Protocols](https://github.com/pozzo-research-group/OLD-OT2Protocols) | General Repository for OT2 Design of Experiments |
 | [OT2-ADT](https://github.com/pozzo-research-group/OT2-ADT) | Opentrons OT2 Automated Diffusion Testing |
 | [OT2-DOE](https://github.com/pozzo-research-group/OT2-DOE) | Python modules and notebooks for design of experiments and high-throughput sample preparation and analysis with the Opentrons OT-2 |
-| [OT2_silica_synthesis](https://github.com/pozzo-research-group/OT2_silica_synthesis) | Protocols for silica synthesis on the OT2 |
-| [OT2Protocols](https://github.com/pozzo-research-group/OT2Protocols) | General Repository for OT2 Design of Experiments |
 | [otto](https://github.com/pozzo-research-group/otto) | Plans and the mixing of reagents where the delay times and order of adding the reagents are design variables. The protocol can then be executed with an OT2 robot. |
 | [phasIR](https://github.com/pozzo-research-group/phasIR) | Python modules for high-throughput measurement of melting point using IR bolometry |
 | [science_jubilee](https://github.com/pozzo-research-group/science_jubilee) | Controlling Jubilees for Science! |
@@ -50,7 +46,6 @@ Science Jubilee documentation: [science-jubilee.readthedocs.io](https://science-
 | [HEAD](https://github.com/pozzo-research-group/HEAD) | Supporting code for the "Autonomous retrosynthesis of gold nanoparticles via spectral shape matching" paper. DOI : 10.1039/D2DD00025C |
 | [papers](https://github.com/pozzo-research-group/papers) | Collection of codes for reproducibility from published research |
 | [Polymer_drop_casting](https://github.com/pozzo-research-group/Polymer_drop_casting) | Drop-casting polymer films in 48-well plates with Science Jubilee |
-| [RhuA_SAXS_Modeling](https://github.com/pozzo-research-group/RhuA_SAXS_Modeling) | Method to simulate the scattering curve of an assembly of RhuA Proteins |
 | [silica-np-synthesis](https://github.com/pozzo-research-group/silica-np-synthesis) | Automated silica nanoparticle synthesis: sampling and optimization rounds with SAXS analysis |
 | [silica_lipid_DNA](https://github.com/pozzo-research-group/silica_lipid_DNA) | Simulation code using HOOMD to perform the closed loop optimization of interparticle pair potentials. |
 
@@ -58,8 +53,20 @@ Science Jubilee documentation: [science-jubilee.readthedocs.io](https://science-
 
 | Repository | Description |
 |---|---|
-| [colormixdemo](https://github.com/pozzo-research-group/colormixdemo) | Modular implementation of a color mixing demo. Intended for use with the Jubilee laboratory automation platform. |
 | [jubilee_pipette_BOdemo](https://github.com/pozzo-research-group/jubilee_pipette_BOdemo) | Color matching bayesian optimization with jubilee, rewritten to use pipette |
+
+## Archived and Deprecated Repositories
+
+Read-only. Code and links still work.
+
+| Repository | Description |
+|---|---|
+| [AnalySAS](https://github.com/pozzo-research-group/AnalySAS) | Python package for processing, analysis and modeling of small-angle scattering data |
+| [colormixdemo](https://github.com/pozzo-research-group/colormixdemo) | Modular implementation of a color mixing demo. Intended for use with the Jubilee laboratory automation platform. |
 | [ML4MS2024_tutorials](https://github.com/pozzo-research-group/ML4MS2024_tutorials) | Tutorial notebooks for the 2024 Machine Learning Modalities for Material Science workshop |
 | [MRSFall23](https://github.com/pozzo-research-group/MRSFall23) | This repository contains code and data used for MRS Fall 2023 tutorial |
+| [OLD-OT2Protocols](https://github.com/pozzo-research-group/OLD-OT2Protocols) | General Repository for OT2 Design of Experiments |
 | [OT2-Course-MSE](https://github.com/pozzo-research-group/OT2-Course-MSE) | Course documents and code for introduction to high-throughput experimentation module for MSE |
+| [OT2_silica_synthesis](https://github.com/pozzo-research-group/OT2_silica_synthesis) | Protocols for silica synthesis on the OT2 |
+| [OT2Protocols](https://github.com/pozzo-research-group/OT2Protocols) | General Repository for OT2 Design of Experiments |
+| [RhuA_SAXS_Modeling](https://github.com/pozzo-research-group/RhuA_SAXS_Modeling) | Method to simulate the scattering curve of an assembly of RhuA Proteins |
