@@ -46,6 +46,7 @@ TOPICS = {
     "OT2_silica_synthesis": ["automation", "opentrons", "nanoparticles"],
     "OT2Protocols": ["automation", "opentrons"],
     "OLD-OT2Protocols": ["automation", "opentrons"],
+    "Ball-Mill-Mechanoredox": ["automation", "open-hardware", "jubilee"],
     # Papers & research projects
     "papers": ["paper"],
     "HEAD": ["paper", "bayesian-optimization", "nanoparticles"],
