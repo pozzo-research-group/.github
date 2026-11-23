@@ -26,6 +26,7 @@ Science Jubilee documentation: [science-jubilee.readthedocs.io](https://science-
 |---|---|
 | [AFL-sample-loader](https://github.com/pozzo-research-group/AFL-sample-loader) | The automation software that powers the NIST Autonomous Formulation Lab! A flexible, web-based backend for device integration, drivers for some devices we've found useful, and glue that makes the AFL run. |
 | [Automation-Hardware](https://github.com/pozzo-research-group/Automation-Hardware) | Pozzo Group OT2 Hardware |
+| [Ball-Mill-Mechanoredox](https://github.com/pozzo-research-group/Ball-Mill-Mechanoredox) | Hardware designs and workbook for HTP ball mill mechanoredox using Science Jubilee |
 | [bo-serving](https://github.com/pozzo-research-group/bo-serving) | Serve Ax bayesian optimization as an endpoint. |
 | [digital_pipette_server](https://github.com/pozzo-research-group/digital_pipette_server) | Raspberry Pi server that drives the Digital Pipette syringe tool for Science Jubilee |
 | [OT2-ADT](https://github.com/pozzo-research-group/OT2-ADT) | Opentrons OT2 Automated Diffusion Testing |
