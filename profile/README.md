@@ -54,6 +54,7 @@ Science Jubilee documentation: [science-jubilee.readthedocs.io](https://science-
 | Repository | Description |
 |---|---|
 | [jubilee_pipette_BOdemo](https://github.com/pozzo-research-group/jubilee_pipette_BOdemo) | Color matching bayesian optimization with jubilee, rewritten to use pipette |
+| [OT2-Course-MSE](https://github.com/pozzo-research-group/OT2-Course-MSE) | Course documents and code for introduction to high-throughput experimentation module for MSE |
 
 ## Archived and Deprecated Repositories
 
@@ -66,7 +67,6 @@ Read-only. Code and links still work.
 | [ML4MS2024_tutorials](https://github.com/pozzo-research-group/ML4MS2024_tutorials) | Tutorial notebooks for the 2024 Machine Learning Modalities for Material Science workshop |
 | [MRSFall23](https://github.com/pozzo-research-group/MRSFall23) | This repository contains code and data used for MRS Fall 2023 tutorial |
 | [OLD-OT2Protocols](https://github.com/pozzo-research-group/OLD-OT2Protocols) | General Repository for OT2 Design of Experiments |
-| [OT2-Course-MSE](https://github.com/pozzo-research-group/OT2-Course-MSE) | Course documents and code for introduction to high-throughput experimentation module for MSE |
 | [OT2_silica_synthesis](https://github.com/pozzo-research-group/OT2_silica_synthesis) | Protocols for silica synthesis on the OT2 |
 | [OT2Protocols](https://github.com/pozzo-research-group/OT2Protocols) | General Repository for OT2 Design of Experiments |
 | [RhuA_SAXS_Modeling](https://github.com/pozzo-research-group/RhuA_SAXS_Modeling) | Method to simulate the scattering curve of an assembly of RhuA Proteins |
