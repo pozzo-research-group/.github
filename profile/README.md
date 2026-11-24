@@ -32,6 +32,7 @@ Group members: [how to create, document and maintain repositories](https://githu
 | [bo-serving](https://github.com/pozzo-research-group/bo-serving) | Serve Ax bayesian optimization as an endpoint. |
 | [digital_pipette_server](https://github.com/pozzo-research-group/digital_pipette_server) | Raspberry Pi server that drives the Digital Pipette syringe tool for Science Jubilee |
 | [OT2-ADT](https://github.com/pozzo-research-group/OT2-ADT) | Opentrons OT2 Automated Diffusion Testing |
+| [OT2-DOE](https://github.com/pozzo-research-group/OT2-DOE) | Python modules and notebooks for design of experiments and high-throughput sample preparation and analysis with the Opentrons OT-2 |
 | [otto](https://github.com/pozzo-research-group/otto) | Plans and the mixing of reagents where the delay times and order of adding the reagents are design variables. The protocol can then be executed with an OT2 robot. |
 | [phasIR](https://github.com/pozzo-research-group/phasIR) | Python modules for high-throughput measurement of melting point using IR bolometry |
 | [science_jubilee](https://github.com/pozzo-research-group/science_jubilee) | Controlling Jubilees for Science! |
@@ -67,7 +68,6 @@ Read-only. Code and links still work.
 | [ML4MS2024_tutorials](https://github.com/pozzo-research-group/ML4MS2024_tutorials) | Tutorial notebooks for the 2024 Machine Learning Modalities for Material Science workshop |
 | [MRSFall23](https://github.com/pozzo-research-group/MRSFall23) | This repository contains code and data used for MRS Fall 2023 tutorial |
 | [OLD-OT2Protocols](https://github.com/pozzo-research-group/OLD-OT2Protocols) | General Repository for OT2 Design of Experiments |
-| [OT2-DOE](https://github.com/pozzo-research-group/OT2-DOE) | Python modules and notebooks for design of experiments and high-throughput sample preparation and analysis with the Opentrons OT-2 |
 | [OT2_silica_synthesis](https://github.com/pozzo-research-group/OT2_silica_synthesis) | Protocols for silica synthesis on the OT2 |
 | [OT2Protocols](https://github.com/pozzo-research-group/OT2Protocols) | General Repository for OT2 Design of Experiments |
 | [RhuA_SAXS_Modeling](https://github.com/pozzo-research-group/RhuA_SAXS_Modeling) | Method to simulate the scattering curve of an assembly of RhuA Proteins |
