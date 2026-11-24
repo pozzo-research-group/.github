@@ -39,7 +39,7 @@ Science Jubilee documentation: [science-jubilee.readthedocs.io](https://science-
 
 | Repository | Description |
 |---|---|
-| [automated-mesoporous-silica](https://github.com/pozzo-research-group/automated-mesoporous-silica) | Code for the paper 'Open-hardware automation platform for accelerated sol-gel nanomaterial synthesis' |
+| [automated-mesoporous-silica](https://github.com/pozzo-research-group/automated-mesoporous-silica) | Code for the paper 'Accelerated sol–gel synthesis of nanoporous silica via integrated small angle X-ray scattering with an open-source automation platform' (Digital Discovery, 2025) |
 | [des-basis-set](https://github.com/pozzo-research-group/des-basis-set) | Package for determining basis set of DES candidates for high-throughput experimentation |
 | [gel-reaction-diffusion](https://github.com/pozzo-research-group/gel-reaction-diffusion) | Investigating reaction diffusion for critical materials separation using hydrogels. Accelerated using the Science-Jubilee platform. |
 | [HEAD](https://github.com/pozzo-research-group/HEAD) | Supporting code for the "Autonomous retrosynthesis of gold nanoparticles via spectral shape matching" paper. DOI : 10.1039/D2DD00025C |
