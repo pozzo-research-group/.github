@@ -1,0 +1,30 @@
+# Plan step 4.3: once a year, check every public repository against
+# REPOSITORY_GUIDE.md and open one issue in this repository with the results.
+# Also runs on demand: Actions > Yearly repository audit > Run workflow.
+name: Yearly repository audit
+
+on:
+  schedule:
+    - cron: "0 17 15 1 *"   # 15 January, 17:00 UTC (09:00 Seattle)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run audit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/audit_repos.py report.md
+      - name: Open issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue create --title "Repository audit $(date +%Y-%m-%d)" --body-file report.md
