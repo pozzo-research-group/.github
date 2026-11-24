@@ -41,7 +41,6 @@ Science Jubilee documentation: [science-jubilee.readthedocs.io](https://science-
 | Repository | Description |
 |---|---|
 | [automated-mesoporous-silica](https://github.com/pozzo-research-group/automated-mesoporous-silica) | Code for the paper 'Open-hardware automation platform for accelerated sol-gel nanomaterial synthesis' |
-| [c-wolf-blends-morphology](https://github.com/pozzo-research-group/c-wolf-blends-morphology) | This repository includes the analysis scripts for a work in progress on blends of a conjugated polymer and polystyrene. The data will be made available as supplemental material once the work is published. |
 | [des-basis-set](https://github.com/pozzo-research-group/des-basis-set) | Package for determining basis set of DES candidates for high-throughput experimentation |
 | [gel-reaction-diffusion](https://github.com/pozzo-research-group/gel-reaction-diffusion) | Investigating reaction diffusion for critical materials separation using hydrogels. Accelerated using the Science-Jubilee platform. |
 | [HEAD](https://github.com/pozzo-research-group/HEAD) | Supporting code for the "Autonomous retrosynthesis of gold nanoparticles via spectral shape matching" paper. DOI : 10.1039/D2DD00025C |
@@ -64,6 +63,7 @@ Read-only. Code and links still work.
 | Repository | Description |
 |---|---|
 | [AnalySAS](https://github.com/pozzo-research-group/AnalySAS) | Python package for processing, analysis and modeling of small-angle scattering data |
+| [c-wolf-blends-morphology](https://github.com/pozzo-research-group/c-wolf-blends-morphology) | This repository includes the analysis scripts for a work in progress on blends of a conjugated polymer and polystyrene. The data will be made available as supplemental material once the work is published. |
 | [colormixdemo](https://github.com/pozzo-research-group/colormixdemo) | Modular implementation of a color mixing demo. Intended for use with the Jubilee laboratory automation platform. |
 | [ML4MS2024_tutorials](https://github.com/pozzo-research-group/ML4MS2024_tutorials) | Tutorial notebooks for the 2024 Machine Learning Modalities for Material Science workshop |
 | [MRSFall23](https://github.com/pozzo-research-group/MRSFall23) | This repository contains code and data used for MRS Fall 2023 tutorial |
