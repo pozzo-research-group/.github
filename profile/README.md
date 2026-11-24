@@ -4,6 +4,8 @@ Software, hardware designs and code for publications from the [Pozzo Research Gr
 
 Science Jubilee documentation: [science-jubilee.readthedocs.io](https://science-jubilee.readthedocs.io/en/latest/)
 
+Group members: [how to create, document and maintain repositories](https://github.com/pozzo-research-group/.github/blob/main/REPOSITORY_GUIDE.md)
+
 
 ## Analysis, modeling & data management
 
