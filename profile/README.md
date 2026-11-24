@@ -41,6 +41,7 @@ Group members: [how to create, document and maintain repositories](https://githu
 | Repository | Description |
 |---|---|
 | [automated-mesoporous-silica](https://github.com/pozzo-research-group/automated-mesoporous-silica) | Code for the paper 'Accelerated sol–gel synthesis of nanoporous silica via integrated small angle X-ray scattering with an open-source automation platform' (Digital Discovery, 2025) |
+| [c-wolf-blends-morphology](https://github.com/pozzo-research-group/c-wolf-blends-morphology) | Analysis scripts for the paper 'Blend Morphology in Polythiophene–Polystyrene Composites from Neutron and X-ray Scattering' (Macromolecules, 2021) |
 | [des-basis-set](https://github.com/pozzo-research-group/des-basis-set) | Package for determining basis set of DES candidates for high-throughput experimentation |
 | [gel-reaction-diffusion](https://github.com/pozzo-research-group/gel-reaction-diffusion) | Investigating reaction diffusion for critical materials separation using hydrogels. Accelerated using the Science-Jubilee platform. |
 | [HEAD](https://github.com/pozzo-research-group/HEAD) | Supporting code for the "Autonomous retrosynthesis of gold nanoparticles via spectral shape matching" paper. DOI : 10.1039/D2DD00025C |
@@ -62,7 +63,6 @@ Read-only. Code and links still work.
 | Repository | Description |
 |---|---|
 | [AnalySAS](https://github.com/pozzo-research-group/AnalySAS) | Python package for processing, analysis and modeling of small-angle scattering data |
-| [c-wolf-blends-morphology](https://github.com/pozzo-research-group/c-wolf-blends-morphology) | Analysis scripts for the paper 'Blend Morphology in Polythiophene–Polystyrene Composites from Neutron and X-ray Scattering' (Macromolecules, 2021) |
 | [colormixdemo](https://github.com/pozzo-research-group/colormixdemo) | Modular implementation of a color mixing demo. Intended for use with the Jubilee laboratory automation platform. |
 | [ML4MS2024_tutorials](https://github.com/pozzo-research-group/ML4MS2024_tutorials) | Tutorial notebooks for the 2024 Machine Learning Modalities for Material Science workshop |
 | [MRSFall23](https://github.com/pozzo-research-group/MRSFall23) | This repository contains code and data used for MRS Fall 2023 tutorial |
