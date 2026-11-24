@@ -80,7 +80,8 @@ DESCRIPTIONS = {
     "silica-np-synthesis": "Automated silica nanoparticle synthesis: sampling and optimization rounds with SAXS analysis",
     "digital_pipette_server": "Raspberry Pi server that drives the Digital Pipette syringe tool for Science Jubilee",
     "Polymer_drop_casting": "Drop-casting polymer films in 48-well plates with Science Jubilee",
-    "automated-mesoporous-silica": "Code for the paper 'Open-hardware automation platform for accelerated sol-gel nanomaterial synthesis'",
+    "automated-mesoporous-silica": "Code for the paper 'Accelerated sol–gel synthesis of nanoporous silica via integrated small angle X-ray scattering with an open-source automation platform' (Digital Discovery, 2025)",
+    "c-wolf-blends-morphology": "Analysis scripts for the paper 'Blend Morphology in Polythiophene–Polystyrene Composites from Neutron and X-ray Scattering' (Macromolecules, 2021)",
     # Private repo (description written by Lilo)
     "nomad-oasis-ferry": "NOMAD Oasis Ferry is a Python package and command-line tool for automatically monitoring, pairing, and uploading SAXS and UV-Vis files to a NOMAD Oasis instance.",
 }
