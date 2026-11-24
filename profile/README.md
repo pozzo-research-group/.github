@@ -46,7 +46,6 @@ Group members: [how to create, document and maintain repositories](https://githu
 | [gel-reaction-diffusion](https://github.com/pozzo-research-group/gel-reaction-diffusion) | Investigating reaction diffusion for critical materials separation using hydrogels. Accelerated using the Science-Jubilee platform. |
 | [HEAD](https://github.com/pozzo-research-group/HEAD) | Supporting code for the "Autonomous retrosynthesis of gold nanoparticles via spectral shape matching" paper. DOI : 10.1039/D2DD00025C |
 | [papers](https://github.com/pozzo-research-group/papers) | Collection of codes for reproducibility from published research |
-| [Polymer_drop_casting](https://github.com/pozzo-research-group/Polymer_drop_casting) | Drop-casting polymer films in 48-well plates with Science Jubilee |
 | [silica-np-synthesis](https://github.com/pozzo-research-group/silica-np-synthesis) | Automated silica nanoparticle synthesis: sampling and optimization rounds with SAXS analysis |
 | [silica_lipid_DNA](https://github.com/pozzo-research-group/silica_lipid_DNA) | Simulation code using HOOMD to perform the closed loop optimization of interparticle pair potentials. |
 
