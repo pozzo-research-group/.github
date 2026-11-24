@@ -62,7 +62,7 @@ Read-only. Code and links still work.
 | Repository | Description |
 |---|---|
 | [AnalySAS](https://github.com/pozzo-research-group/AnalySAS) | Python package for processing, analysis and modeling of small-angle scattering data |
-| [c-wolf-blends-morphology](https://github.com/pozzo-research-group/c-wolf-blends-morphology) | This repository includes the analysis scripts for a work in progress on blends of a conjugated polymer and polystyrene. The data will be made available as supplemental material once the work is published. |
+| [c-wolf-blends-morphology](https://github.com/pozzo-research-group/c-wolf-blends-morphology) | Analysis scripts for the paper 'Blend Morphology in Polythiophene–Polystyrene Composites from Neutron and X-ray Scattering' (Macromolecules, 2021) |
 | [colormixdemo](https://github.com/pozzo-research-group/colormixdemo) | Modular implementation of a color mixing demo. Intended for use with the Jubilee laboratory automation platform. |
 | [ML4MS2024_tutorials](https://github.com/pozzo-research-group/ML4MS2024_tutorials) | Tutorial notebooks for the 2024 Machine Learning Modalities for Material Science workshop |
 | [MRSFall23](https://github.com/pozzo-research-group/MRSFall23) | This repository contains code and data used for MRS Fall 2023 tutorial |
