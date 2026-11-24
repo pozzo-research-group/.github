@@ -36,14 +36,20 @@ person who started it. The maintainer changes when that person leaves (§10).
 3. **Start private.** A repository stays private until it has a README and a LICENSE, and nothing
    unpublished is in it. Lilo makes it public, usually at paper submission or publication.
 4. **Create it when there is content.** Don't create empty placeholder repositories.
-5. **Set your Git identity** on every computer you commit from, so commits are credited to you:
+5. **Start from a template.** On GitHub, open
+   [template-python-package](https://github.com/pozzo-research-group/template-python-package) (a
+   reusable package) or [template-paper](https://github.com/pozzo-research-group/template-paper) (code
+   and figures for one paper), click **Use this template**, set the owner to pozzo-research-group,
+   and work through the checklist at the top of its README
+   ([GitHub Docs: Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)).
+6. **Set your Git identity** on every computer you commit from, so commits are credited to you:
    ```
    git config --global user.name "Your Name"
    git config --global user.email "ID+username@users.noreply.github.com"
    ```
    Your noreply address is under GitHub → Settings → Emails
    ([GitHub Docs: Setting your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)).
-6. Use **`main`** as the default branch.
+7. Use **`main`** as the default branch.
 
 ### Naming
 
@@ -269,7 +275,7 @@ Lilo archives:
 
 ## Checklists
 
-**New repository:** searched pozzo-research-group → Lilo approved → private, `main` branch →
+**New repository:** searched pozzo-research-group → Lilo approved → created from a template → private, `main` branch →
 kebab-case name → description and one category topic → README, MIT or BSD-3-Clause LICENSE,
 `.gitignore` → Git identity set.
 
