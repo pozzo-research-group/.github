@@ -35,7 +35,6 @@ Group members: [how to create, document and maintain repositories](https://githu
 | [otto](https://github.com/pozzo-research-group/otto) | Plans and the mixing of reagents where the delay times and order of adding the reagents are design variables. The protocol can then be executed with an OT2 robot. |
 | [phasIR](https://github.com/pozzo-research-group/phasIR) | Python modules for high-throughput measurement of melting point using IR bolometry |
 | [science_jubilee](https://github.com/pozzo-research-group/science_jubilee) | Controlling Jubilees for Science! |
-| [sonication_station](https://github.com/pozzo-research-group/sonication_station) | Using Jubilee3D for sample preparation with sonication |
 
 ## Papers & research projects
 
